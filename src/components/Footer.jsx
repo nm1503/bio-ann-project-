@@ -10,7 +10,7 @@ export default function Footer() {
         </p>
         <p className="text-slate-500 text-sm mb-4">
           Bio Project by{' '}
-          <span className="text-cyan-400 font-semibold">Pius Chauhan</span>
+          <span className="text-cyan-400 font-semibold">Team Infinity</span>
         </p>
 
         <div className="flex justify-center gap-6 mb-6">
@@ -31,7 +31,7 @@ export default function Footer() {
         </div>
 
         <p className="text-slate-700 text-xs">
-          © {year} Pius Chauhan · MIT License · Built with React + Vite + Tailwind CSS
+          © {year} Team Infinity · MIT License · Built with React + Vite + Tailwind CSS
         </p>
       </div>
     </footer>

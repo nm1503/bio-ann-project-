@@ -1,6 +1,6 @@
 # 🧠 Artificial Neural Networks: From Biology to Technology
 
-> An interactive React web app exploring Artificial Neural Networks from a biological perspective — built as a bio project by **Pius Chauhan**.
+> An interactive React web app exploring Artificial Neural Networks from a biological perspective — built as a bio project by **Team Infinity**.
 
 ---
 
@@ -100,7 +100,7 @@ bio-ann-project/
 
 ## 👤 Credits
 
-Built with ❤️ by **Pius Chauhan** as a biology class project on Artificial Neural Networks.
+Built with ❤️ by **Team Infinity** as a biology class project on Artificial Neural Networks.
 
 ---
 

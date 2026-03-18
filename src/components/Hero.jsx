@@ -53,7 +53,7 @@ export default function Hero() {
         </h2>
         <p className="text-slate-400 text-lg mb-3 max-w-2xl mx-auto">
           An Interactive Exploration by{' '}
-          <span className="text-cyan-400 font-semibold">Pius Chauhan</span>
+          <span className="text-cyan-400 font-semibold">Team Infinity</span>
         </p>
         <p className="text-slate-500 text-sm mb-10 max-w-xl mx-auto">
           Discover how the human brain inspired the most powerful computing models in
